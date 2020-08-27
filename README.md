@@ -1,1 +1,0 @@
-# arrowDetection-by-openCV
